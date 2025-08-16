@@ -1,5 +1,6 @@
 Ngay xua ngay xua, co mot con ga
 ... co mot con rong ten la Gemini
+3. Con ga va con rong cung song trong mot vuon rau
 
 
 
